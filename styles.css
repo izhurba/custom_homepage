@@ -1,0 +1,23 @@
+html, body {
+	width:100%;
+	height:100%;
+	margin: 0px;
+  	background-color: darkgray;
+  	overflow: hidden;
+  	background-image: url("img/space.jpg"); /*Photo by faaiq ackmerd from Pexels*/
+  	background-position: center;
+  	background-repeat: no-repeat; 
+  	background-size: cover; 
+}
+
+#time, #links {
+	color: white;
+}
+
+#time {
+	position: relative;
+	text-align: center;
+	width: 100%;
+	top: 50px;
+	font-size: 50px;
+}
